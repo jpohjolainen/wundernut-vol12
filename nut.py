@@ -45,7 +45,7 @@ def main():
     # forward. wrap around alphabets: Z->A
     for x in range(27):
         decoded = ''
-        for c, i in enumerate(encoded_text):
+        for i in encoded_text:
             if i not in ['\n', '\r']:
                 # Only circle around capital letters and not whole ascii table
                 o = 65 + ((ord(i) + x) - 65) % 26
