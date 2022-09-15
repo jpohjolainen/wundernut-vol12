@@ -1,6 +1,6 @@
 # Wundernut Vol. 12
 
-This is a small program to solve the Wundernut vol. 12.
+This is a quick&dirty program to solve the Wundernut vol. 12.
 
 Wundernut vol. 12 can be found at https://github.com/wunderdogsw/wundernut-vol12
 
